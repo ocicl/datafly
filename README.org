@@ -4,6 +4,6 @@ A lightweight database library for Common Lisp.
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/fukamachi/datafly.git |
-| commit  | c9c1f99                                      |
+| commit  | 4dbfb9b                                      |
 | systems | datafly                                      |
 |---------+----------------------------------------------|
